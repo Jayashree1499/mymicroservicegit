@@ -7,4 +7,4 @@ spring:
     hibernate:
       ddl-auto: create
     show-sql: true
-message : Catalog of Products
+message : Ammu is Great
